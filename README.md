@@ -1,7 +1,7 @@
 ### wazup I'm Vinícius, Viga or just Krolow...
 
 [![Linkedin Badge](https://img.shields.io/badge/Vinícius%20Krolow-blue?style=social&logo=Linkedin&logoColor=blue&link=www.linkedin.com/in/krolow)](https://www.linkedin.com/in/krolow/) [![Twitter Badge](http://img.shields.io/badge/-@krolow-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/krolow)](https://twitter.com/krolow)
-[![Instagram Badge](http://img.shields.io/badge/-@krolow-1ca0f1?style=social&logo=instagram&logoColor=purple&link=https://instagram.com/krolow)](https://twitter.com/instagram)
+[![Instagram Badge](http://img.shields.io/badge/-@krolow-1ca0f1?style=social&logo=instagram&logoColor=purple&link=https://instagram.com/krolow)](https://instagram.com/krolow)
 
 and I like to take ideas out of the paper :)
 
