@@ -10,6 +10,7 @@ and I like to take ideas out of the paper :)
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)
 ![Node](https://img.shields.io/static/v1?label=&message=Node&color=68A063&logo=node.js&logoColor=FFFFFF)
 ![React](https://img.shields.io/static/v1?label=&message=React&color=61DBFB&logo=react&logoColor=FFFFFF)
+![Go](https://img.shields.io/static/v1?label=&message=Go&color=61DBFB&logo=go&logoColor=FFFFFF)
 
 ### My Github Stats!
 <p align="center">
